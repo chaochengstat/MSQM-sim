@@ -1,6 +1,6 @@
 # R Code for Doubly robust estimation and sensitivity analysis for marginal structural quantile models
 
-The zip file provides R code for repeating the simulation results in Section 6 of Doubly robust estimation and sensitivity analysis for marginal structural quantile models. 
+The zip file provides R code for repeating the simulation results in Section 6 of Doubly robust estimation and sensitivity analysis for marginal structural quantile models ([arXiv preprint arXiv:2210.04100](https://arxiv.org/abs/2210.04100)). 
 
 ## Below is code for the main simulation study (Section 6.1):
 
