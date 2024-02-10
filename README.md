@@ -2,7 +2,7 @@
 
 The Web appendix is available at "MSQM_Supplementary_Material.pdf".
 
-The zip file "Simulation_Code_0124.zip" provides R code for repeating the simulation results in Section 6 of Doubly robust estimation and sensitivity analysis for marginal structural quantile models. In what follows, I provide the steps to run the simulation code.
+The zip file "Simulation_Code_0124.zip" provides R code for repeating the simulation results in Section 6. In what follows, I provide the steps to run the simulation code.
 
 ## Below is code for the main simulation study (Section 6.1):
 
