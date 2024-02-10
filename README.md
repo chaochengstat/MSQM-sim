@@ -1,8 +1,8 @@
-# Supplementary Material for Doubly robust estimation and sensitivity analysis for marginal structural quantile models
+# Supplementary Material for Doubly robust estimation and sensitivity analysis for marginal structural quantile models ([arXiv preprint arXiv:2210.04100](https://arxiv.org/abs/2210.04100))
 
-The web appendix is available at "".
+The Web appendix is available at "MSQM_Supplementary_Material.pdf".
 
-The zip file provides R code for repeating the simulation results in Section 6 of Doubly robust estimation and sensitivity analysis for marginal structural quantile models ([arXiv preprint arXiv:2210.04100](https://arxiv.org/abs/2210.04100)). 
+The zip file "Simulation_Code_0124.zip" provides R code for repeating the simulation results in Section 6 of Doubly robust estimation and sensitivity analysis for marginal structural quantile models. In what follows, I provide the steps to run the simulation code.
 
 ## Below is code for the main simulation study (Section 6.1):
 
